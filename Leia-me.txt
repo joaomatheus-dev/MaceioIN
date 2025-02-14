@@ -1,0 +1,26 @@
+# Leia-me
+
+## Passos para rodar o sistema
+
+1. **Clone o repositório**:
+
+   git clone https://github.com/joaomatheus-dev/MaceioIN
+   cd MaceioIN
+Ative o ambiente virtual:
+
+No Windows:
+
+./env/Scripts/activate
+
+No macOS/Linux:
+
+source env/bin/activate
+
+Instale as dependências do frontend e inicie o servidor:
+
+cd frontend
+npm install
+npm run dev
+
+###
+Se não gostarem do código e estiverem precisando um estagiário suporte, ficarei agradecido se me chamarem.
