@@ -22,5 +22,12 @@ cd frontend
 npm install
 npm run dev
 
+Usuários padrões:
+
+t@teste.com 123456
+m@maria.com 123456
+
+Caso precise criar um novo usuário entre em : localhost:5173/register
+
 ###
 Se não gostarem do código e estiverem precisando um estagiário suporte, ficarei agradecido se me chamarem.
